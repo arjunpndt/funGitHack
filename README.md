@@ -1,2 +1,2 @@
 # funGitHack
-just to learn more about github
+just to learn more about GitHub
